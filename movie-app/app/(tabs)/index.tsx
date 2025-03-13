@@ -18,7 +18,7 @@ export default function HomeScreen() {
     >
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">
-          Welcome, Jamie to my movie app!!! I could put anything i want !
+          This is my test app where I'll create a movie repository
         </ThemedText>
         <HelloWave />
       </ThemedView>
